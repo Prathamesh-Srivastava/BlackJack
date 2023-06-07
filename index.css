@@ -1,0 +1,25 @@
+body{
+    background-image: url(casino.jpg);
+    background-size:cover;
+
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
+h1{
+    color: goldenrod;
+}
+h3{
+    font-style: italic;
+}
+button{
+    background-color: goldenrod;
+    color: #016f32;
+    width: 130px;
+    height: 25px;
+    font-weight: bold;
+    display: block;
+    margin-top: 10px;
+    margin-left: 46%;
+}
